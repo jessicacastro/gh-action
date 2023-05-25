@@ -1,4 +1,4 @@
-name: First Github Workflow Group
+name: First GH Workflow
 on: workflow_dispatch
 jobs:
   first-job:
